@@ -17,7 +17,6 @@ export default {
     "number-divide",
     "result",
   ],
-
   components: {},
   data() {
     return {
