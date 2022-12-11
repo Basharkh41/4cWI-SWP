@@ -22,7 +22,6 @@ export default {
     return {
     };
   },
-
   methods: {
     add() {
       this.$emit("number-add");
