@@ -29,7 +29,6 @@ export default {
       resultNumber: 0,
     };
   },
-
   methods: {
     add() {
       this.numberFirst = this.numberFromInput;
